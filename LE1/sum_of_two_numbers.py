@@ -1,3 +1,3 @@
-x= int(input("Enter the first Number:"))
+x = int(input("Enter the first Number:"))
 y = int(input("Enter the Second Number: "))
 print(f"The Sum of both Number: {x+y}")
